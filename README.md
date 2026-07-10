@@ -1,18 +1,15 @@
 # SKILLS
 
-Coleção de **skills e instruções operacionais** para agentes de IA (Claude Code e Gemini) voltadas à segurança da informação ofensiva — reconhecimento, análise de vulnerabilidades, exploração e relatório — seguindo metodologias reconhecidas como **PTES** e o framework **MITRE ATT&CK**.
+Uma coleção de skills e instruções operacionais para agentes de IA como Claude Code e Gemini, voltadas à segurança ofensiva. Cobre reconhecimento, análise de vulnerabilidades, exploração e relatório, seguindo o PTES e mapeando táticas com o MITRE ATT&CK.
 
-## Conteúdo
+## O que tem aqui
 
-| Arquivo | Descrição |
-|---------|-----------|
-| [`SKILL.md`](SKILL.md) | Protocolo de agente Red Team autônomo (blackbox), fases PTES e geração de relatório pós-comprometimento |
-| [`GEMINI.md`](GEMINI.md) | Instruções para análise **whitebox** de código-fonte: mapeamento de vulnerabilidades, encadeamento de falhas, CVEs e correções |
+O arquivo SKILL.md traz o protocolo de um agente Red Team autônomo em modo blackbox, com as fases do PTES e a geração de relatório pós comprometimento. O GEMINI.md traz as instruções para análise whitebox de código fonte, com mapeamento de vulnerabilidades, encadeamento de falhas, checagem de CVEs e sugestão de correções.
 
 ## Uso
 
-Estas skills são projetadas para operar em **laboratórios de treinamento autorizados** (ex.: Hack The Box) e ambientes controlados, apoiando o estudo de metodologias ofensivas e a automação de fluxos de teste.
+As skills foram feitas para rodar em laboratórios de treinamento autorizados como o Hack The Box e em ambientes controlados. A ideia é apoiar o estudo de metodologia ofensiva e automatizar parte do fluxo de teste.
 
-## Aviso ético
+## Aviso
 
-Este conteúdo destina-se **exclusivamente a estudo e uso legítimo** em ambientes próprios ou com autorização formal. Não deve ser empregado para acesso não autorizado, trapaça ou qualquer atividade que cause dano a terceiros. O uso indevido é de responsabilidade exclusiva de quem o pratica.
+Este conteúdo é só para estudo e uso legítimo, no seu próprio ambiente ou com autorização formal. Não serve para acesso não autorizado nem para prejudicar ninguém. Quem usar de forma indevida responde sozinho por isso.
